@@ -28,9 +28,6 @@ Multi-Video RAG Research Assistant built with LangChain, LangGraph, ChromaDB, Fa
 ### 🩺 AI-Powered Pneumonia Detection
 91% accuracy medical imaging system using EfficientNetB0, LoRA fine-tuning, and MLOps pipelines.
 
-### 📈 AI Sales Forecasting Platform
-AWS-powered forecasting and anomaly detection pipeline with Gemini-generated business insights.
-
 ### 🎵 Multimodal AI Recommendation Engine
 Emotion, weather, and context-aware recommendation system using Llama 3 and LangGraph.
 
