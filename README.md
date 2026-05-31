@@ -1,5 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building AI-powered applications using RAG, LLM agents, predictive analytics, and cloud-based data pipelines.<br><br>👯 I’m looking to collaborate on<br>Generative AI, Machine Learning, Data Analytics, and full-stack AI product development projects.<br><br>🤝 I’m looking for help with<br>Advanced MLOps, scalable AI system design, and deploying production-grade ML applications.<br><br>🌱 I’m currently learning<br>LangGraph, Agentic AI, MLOps, AWS cloud services, and advanced machine learning techniques.<br><br>💬 Ask me about<br>RAG pipelines, LangChain, Power BI dashboards, predictive analytics, and AI application development.<br><br>⚡ Fun fact<br>I’ve built projects ranging from AI research assistants and medical AI systems to business intelligence dashboards and forecasting pipelines.
+<h1 align="center">Hi 👋, I'm Dhruv Kimbahune</h1>
+<h3 align="center">AI Engineer | ML Enthusiast | Full-Stack Builder</h3>
+
+<p align="center">
+Building AI products with LLMs, RAG, Machine Learning, and Cloud Technologies
+</p>
+
+I'm Dhruv, a B.Tech IT student and aspiring AI Engineer focused on building production-ready AI applications.
+
+My work spans:
+- 🧠 Generative AI & RAG Systems
+- 🤖 LLM Agents & Agentic Workflows
+- 📊 Data Analytics & Forecasting
+- 👁️ Computer Vision
+- ☁️ Cloud & MLOps
+
+I've developed systems involving LangChain, LangGraph, FastAPI, ChromaDB, AWS, Power BI, and modern ML frameworks, with projects ranging from AI research assistants to healthcare diagnostics and business intelligence platforms.
+
+Currently learning how to design scalable AI systems that move beyond prototypes into production.
+
+> "Technology should empower people, not complicate their lives."
+
+## 🌟 Featured Projects
+
+### 🎥 VidMind AI
+Multi-Video RAG Research Assistant built with LangChain, LangGraph, ChromaDB, FastAPI, and AWS.
+
+### 🩺 AI-Powered Pneumonia Detection
+91% accuracy medical imaging system using EfficientNetB0, LoRA fine-tuning, and MLOps pipelines.
+
+### 📈 AI Sales Forecasting Platform
+AWS-powered forecasting and anomaly detection pipeline with Gemini-generated business insights.
+
+### 🎵 Multimodal AI Recommendation Engine
+Emotion, weather, and context-aware recommendation system using Llama 3 and LangGraph.
 
 
 ## 🌐 Socials:
